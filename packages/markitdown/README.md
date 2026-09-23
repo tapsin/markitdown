@@ -19,7 +19,7 @@ pip install 'markitdown[all]'
 From source:
 
 ```bash
-git clone git@github.com:microsoft/markitdown.git
+git clone git@github.com:tapsin/markitdown.git
 cd markitdown
 pip install -e 'packages/markitdown[all]'
 ```
